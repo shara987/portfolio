@@ -1,0 +1,8 @@
+Environment: https://coloritmic.itch.io/darkwood-forest
+Spikes: https://opengameart.org/content/floor-spikes
+Cat: https://opengameart.org/content/cat-sprites
+Witch: https://9e0.itch.io/witches-pack
+Book: https://arijkx.itch.io/libraryofbooks
+Font: https://caffinate.itch.io/quaver
+Music: https://opengameart.org/content/lively-meadow-victory-fanfare-and-song
+       https://opengameart.org/content/rpg-the-secret-within-the-woods

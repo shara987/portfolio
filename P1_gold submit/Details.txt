@@ -1,0 +1,25 @@
+Create a DESIGN.txt document answering the following questions--
+"What is the pitch for your custom level? (2-3 sentences)"
+"What is the pitch for your custom mechanic? (2-3 sentences)"
+"How does your new mechanic / custom level change the way the game is played? (Think back to Mario 3D World, and how a switch-mechanic made a level have dangerous jumps, or how a timer made another level very hectic.")
+"What new interesting decisions does your new mechanic / custom level bring about?"
+"How do you explain the new mechanic to the player (or make its utility obvious) while they are playing without using a bunch of clumsy text? (Assume that players will ignore any text that is more than a few words long)"
+What are the URLs to your online portfolios (where a web build OR win/mac download exists)?
+Please provide one portfolio link for each partner on your team. Each team member must have a portfolio.
+
+
+
+1. What is the pitch for your custom level?
+Link suddenly finds himself in a dark, dingy dungeon, the only light being the harsh glow of the lava surrounding him, leaving him with no way out. That is, until a… glowing Star falls from the sky?! From there he races through a hallway filled with enemies of all kinds, breaks into a hidden vault to find a key, and finally fights a boss to rescue his one true love, Princess Zelda. As Link makes his way through, will he be able to reach Zelda before he runs out of stars?
+
+2. What is the pitch for your custom mechanic?
+The Super Star, an idea borrowed from Super Mario Bros, makes Link temporarily invincible and fast. He kills enemies on touch, crosses water and lava without being hurt, and smashes through cracked blocks. However, the star only lasts so long, so every use is a race against the clock.
+
+3. How does your new mechanic / custom level change the way the game is played?
+Normally Legend of Zelda is about careful combat and exploration, ensuring that players strategize about attacking and which weapon types to use. With the star, the game temporarily becomes an aggressive dash where enemies are mere obstacles to drive through and insurmountable hazards like lava mean nothing. But because it's on a timer, like the timer in the Mario 3D World level, play switches to a hectic sprinting while it's active. Lava and water are now treated like normal floors, and the cracked blocks turn parts of the room into spaces that are unreachable without a star.
+
+4. What new interesting decisions does your new mechanic / custom level bring about?
+Players have to decide when and how to spend a limited star. The longer you dawdle, it becomes increasingly harder to achieve your goal. It might leave you trapped in a room full of enemies, or even stuck in a lava encased island. Stars in the boss room come with a decision too: use the star early to close distance and deal damage, or save it for the end for a last hurrah.
+
+5. How do you explain the new mechanic to the player without text?
+In the first room, Link is trapped by lava, and the star falls into view and lands on his island, so grabbing it is the only way to progress. On pickup, Link flashes rainbow colors and the background music speeds up, the same signals Mario players already know as "invincible". Players who haven’t played Mario before would be able to find this trait out in the second room, where a normally impossible-to-pass room filled to the brim with enemies turns into a scene not unlike a bowling ball and pins. The rainbow flashes faster in the last two seconds as a warning that it's about to end. Cracked blocks have a noticeable broken texture, so players can see they're different from normal walls.  Later rooms rely on players remembering these details.
